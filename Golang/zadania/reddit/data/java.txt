@@ -1,0 +1,52 @@
+[PSA]/r/java is not for programming help, learning questions, or installing Java questions
+https://www.reddit.com/r/java/comments/j7h9er/psarjava_is_not_for_programming_help_learning/
+Continuous Monitoring with JDK Flight Recorder
+https://www.reddit.com/r/java/comments/129gk8k/continuous_monitoring_with_jdk_flight_recorder/
+Naming is Hard -- But Not With Java
+https://www.youtube.com/watch?v=sdaiEAHtdUU
+What do you think about ZGC being the JDK's default GC?
+https://www.reddit.com/r/java/comments/129kjbq/what_do_you_think_about_zgc_being_the_jdks/
+Java 20 in Two minutes
+https://www.youtube.com/watch?v=_NEx1f7cqZM
+JBang with GPT
+https://www.reddit.com/r/java/comments/128op0k/jbang_with_gpt/
+IDE support for virtual threads
+https://www.reddit.com/r/java/comments/127uewo/ide_support_for_virtual_threads/
+Deploying JCEF desktop apps
+https://www.reddit.com/r/java/comments/127my01/deploying_jcef_desktop_apps/
+How do you package your Swing app?
+https://www.reddit.com/r/java/comments/127mu3p/how_do_you_package_your_swing_app/
+Why use javafx
+https://www.reddit.com/r/java/comments/127xejw/why_use_javafx/
+Release 0.6.1 · hkupty/penna - slf4j json logging backend
+https://github.com/hkupty/penna/releases/tag/0.6.1
+For daily Java programmers: after almost one decade of Java 8, are streams and lambdas fully adopted by the Java community?
+https://www.reddit.com/r/java/comments/1272916/for_daily_java_programmers_after_almost_one/
+Dropwizard 3.0.0 and 4.0.0 have been released
+https://jvm.social/@dropwizard/110114501892964091
+Java 21's New (Sequenced) Collections
+https://www.youtube.com/watch?v=9G_0el3RWPE
+GlassFish 7.0.3 released!
+https://github.com/eclipse-ee4j/glassfish/releases/tag/7.0.3
+The best way to use the Spring Data JPA Specification
+https://vladmihalcea.com/spring-data-jpa-specification/
+Starter for Jakarta EE staged (beta)
+https://jakarta-starter.azurewebsites.net/
+Is there a framework like libGDX but for general applications instead of games?
+https://www.reddit.com/r/java/comments/1260bcp/is_there_a_framework_like_libgdx_but_for_general/
+A new connection manager and remote file explorer created with Java(FX) - X-Pipe Status Update
+https://www.reddit.com/r/java/comments/125j63j/a_new_connection_manager_and_remote_file_explorer/
+IntelliJ IDEA 2023.1 Is Out!
+https://blog.jetbrains.com/idea/2023/03/intellij-idea-2023-1/
+New candidate JEP: 444: Virtual Threads
+https://mail.openjdk.org/pipermail/jdk-dev/2023-March/007534.html
+Make your own Optionals
+https://mccue.dev/pages/3-28-23-custom-optional
+Java Developer vs. ChatGPT: Writing a Spring Boot Microservice
+https://devskeptic.hashnode.dev/java-developer-vs-chatgpt-part-i-writing-a-spring-boot-microservice
+An open-source monitoring tool like zabbix or prometheus
+https://www.reddit.com/r/java/comments/124u8d7/an_opensource_monitoring_tool_like_zabbix_or/
+Searching a specific annotation processing library
+https://www.reddit.com/r/java/comments/124qei6/searching_a_specific_annotation_processing_library/
+Whats Wrong with Java/Spring
+https://www.reddit.com/r/java/comments/1245s8j/whats_wrong_with_javaspring/

@@ -1,0 +1,54 @@
+Come discuss your side projects! [April 2023]
+https://www.reddit.com/r/csharp/comments/128ahn7/come_discuss_your_side_projects_april_2023/
+C# Job Fair! [April 2023]
+https://www.reddit.com/r/csharp/comments/128bo9n/c_job_fair_april_2023/
+Creating a Blazor Server Application with C# and MVVM Toolkit
+https://www.reddit.com/r/csharp/comments/129fhd9/creating_a_blazor_server_application_with_c_and/
+Any difference between using cmd netsh advfirewall and FirewallAPI.dll library to manipulate (add/remove...) firewall rules?
+https://www.reddit.com/r/csharp/comments/129lxq0/any_difference_between_using_cmd_netsh/
+Trimming Nuget Packages?
+https://www.reddit.com/r/csharp/comments/129otse/trimming_nuget_packages/
+System.Drawing just dosen't work
+https://www.reddit.com/r/csharp/comments/129oq6k/systemdrawing_just_dosent_work/
+What are some of the hardest C# interview questions you have had?
+https://www.reddit.com/r/csharp/comments/128lf8i/what_are_some_of_the_hardest_c_interview/
+I'm new to C#, have a little C++ and Java experience from high school and college. My goal is to make an application for two players to play Go.
+https://www.reddit.com/r/csharp/comments/1297i43/im_new_to_c_have_a_little_c_and_java_experience/
+Determine if a property is nullable reliably from a Type
+https://justsimplycode.com/2023/04/02/determine-if-a-property-is-nullable-reliably-from-a-type/
+[Library] Nupendencies - Automated Pull Requests with Latest Dependencies
+https://github.com/thomhurst/Nupendencies
+Which build system is simpler and more transparent, the one in the .NET or the one in the Java ecosystem?
+https://www.reddit.com/r/csharp/comments/129o1fb/which_build_system_is_simpler_and_more/
+Are you in Underline or OverLine camp?
+https://www.reddit.com/r/csharp/comments/129j4tg/are_you_in_underline_or_overline_camp/
+Feedback Wanted - MinimalRPC - Starter template for building APIs using Minimal APIs &amp; RPC style endpoints
+https://www.reddit.com/r/csharp/comments/128huki/feedback_wanted_minimalrpc_starter_template_for/
+dataGridView not showing on windows form window
+https://www.reddit.com/r/csharp/comments/1294cmg/datagridview_not_showing_on_windows_form_window/
+Questions from a senior year student looking for a C# job
+https://www.reddit.com/r/csharp/comments/128maf8/questions_from_a_senior_year_student_looking_for/
+Costs of marshalling an array from C++, and avoiding allocations
+https://www.reddit.com/r/csharp/comments/128hvah/costs_of_marshalling_an_array_from_c_and_avoiding/
+Understanding the full benefits of yield and use of IAsyncEnumerable
+https://www.reddit.com/r/csharp/comments/12897xi/understanding_the_full_benefits_of_yield_and_use/
+Question - How should I accomplish this?
+https://www.reddit.com/r/csharp/comments/128pb9o/question_how_should_i_accomplish_this/
+What kind of jobs one can get by learning C#
+https://www.reddit.com/r/csharp/comments/129bm0f/what_kind_of_jobs_one_can_get_by_learning_c/
+Guide with implementing change data capture
+https://www.reddit.com/r/csharp/comments/128r8ce/guide_with_implementing_change_data_capture/
+WPF RichTextForm not finding correct text Index due to end of line \r\n
+https://www.reddit.com/r/csharp/comments/128jfkk/wpf_richtextform_not_finding_correct_text_index/
+Need assistance with a pretty complex design problem. A "lazy" factory (with command instances which get evaluated when the factory is "activated") with failure handling (commands which failed to execute will get queued up again), nesting (parent system) and a fluent API.
+https://www.reddit.com/r/csharp/comments/128ofsy/need_assistance_with_a_pretty_complex_design/
+Modern C# software development framework
+https://www.reddit.com/r/csharp/comments/127l24a/modern_c_software_development_framework/
+What are some advanced ASP.NET/C# concepts that you believe are a must-know?
+https://www.reddit.com/r/csharp/comments/127oxaj/what_are_some_advanced_aspnetc_concepts_that_you/
+Visual Studio "Attach" button instead of "Start"
+https://v.redd.it/f7yso1549bra1
+Recommended Structure Regarding C# Code for Lambdas
+https://www.reddit.com/r/csharp/comments/1288u6u/recommended_structure_regarding_c_code_for_lambdas/
+Time estimation for a small project.
+https://www.reddit.com/r/csharp/comments/127voy5/time_estimation_for_a_small_project/
